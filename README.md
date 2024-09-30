@@ -1,4 +1,4 @@
-# Hangman
+# Day 07: Hangman
 Created in Python.  
 
 Hangman is a word-guessing game. The player has to guess a word chosen at random by the computer. The player tries to guess it by suggesting letters within a certain number of guesses.   
